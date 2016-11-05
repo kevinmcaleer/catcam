@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#navlinks ul {
+	display: inline;
+	list-style-type: none;
+	list-style-image: none;
+	background-image: url(../Images/greenbackground.jpg);
+}
+#navlinks li {
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+	text-decoration: none;
+}
+#navlinks {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003366;
+	text-decoration: none;
+	background-image: url(../Images/greenbackground.jpg);
+}
+#navlinks a {
+	text-decoration: none;
+}
+
+h, h1, h2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 18pt;
+}
+
+h2 {
+	font-size:14pt;
+}
+
+p {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333333;
+}

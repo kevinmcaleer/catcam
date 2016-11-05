@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CatCam : Home</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/Core.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr><td><div align="center"></div></td><td width="960"><div id="navlinks"><!-- #BeginLibraryItem "/Library/Header.lbi" --><img src="../Images/catcam-logo.jpg" width="64" height="53" />
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a href="../About/aboutcatcam.html">What is a CatCam?</a></li>
+<li><a href="../photos/BestOf/bestofgallery.html">Best of Gallery</a></li>
+<li><a href="http://www.kevsmac.com" target="_blank">Kevsmac.com</a></li>
+</ul>
+<!-- #EndLibraryItem --></div></td>
+<td></td></tr>
+<tr><td></td>
+  <td width="960"><h1><!-- TemplateBeginEditable name="Title" -->Title<!-- TemplateEndEditable --></h1>
+    <!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable -->
+  </td>
+<td></td>
+<tr><td></td>
+  <td width="960"><!-- #BeginLibraryItem "/Library/Footer.lbi" -->Copyright 2009<!-- #EndLibraryItem --></td>
+<td></td></tr>
+</table>
+<h1>&nbsp;</h1>
+</body>
+</html>
